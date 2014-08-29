@@ -1,0 +1,9 @@
+{
+	"name": "sevenpercent/html",
+	"description": "HTML output classes",
+	"autoload": {
+		"psr-4": {
+			"SevenPercent\\HTML\\": "src/"
+		}
+	}
+}
